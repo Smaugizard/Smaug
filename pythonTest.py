@@ -8,4 +8,5 @@ def detection():
     else
         print("You dont have enough String...")
 
+print('test')
 detection()
