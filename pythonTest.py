@@ -5,7 +5,7 @@ def detection():
     haveString = int(input("How much did you find?"))
     if haveString >= 1:
         print("You have " + haveString + " String")
-    else
+    else:
         print("You dont have enough String...")
 
-detection()
+detection() 
